@@ -1,0 +1,4 @@
+#Wed Sep 04 14:43:25 IRDT 2019
+base.0=/home/kasra/Documents/linkap/testDevTools/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
