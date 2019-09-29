@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/kasra/Documents/linkap/testDevTools/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml",
+            "outputFile": "/home/kasra/Documents/testDevTools/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml",
             "map": [
                 {
                     "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/045365e0cdd250331ef9ce7b22cf7982/res/values-sq/values-sq.xml",
